@@ -1,0 +1,12 @@
+project:
+  name: 'BJ Final Testing'
+  owner: 'CS105-23'
+  teamId: '777'
+  identities:
+    github:
+      url: 'https://github.com/raffrearaUS/bjfinaltesting.git'
+  members:
+    member1:
+      name: 'Rtest'
+      surname: 'Ftester' 
+      githubUsername: 'raffrearaUS'
